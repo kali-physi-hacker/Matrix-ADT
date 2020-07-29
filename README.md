@@ -1,3 +1,4 @@
+---
 title: "DATA STRUCTURE AND ALGORITHM"
 ADT: "Matrix Data Type"
 ---
@@ -18,14 +19,14 @@ ADT: "Matrix Data Type"
 
 
 ### How the Matrix ADT can be used 
-matrixA = Matrix(2, 2)      -       This creates a 2 x 2 matrix object
-matrixB = Matrix(2, 2)      -       This creates a 2 x 2 matrix object
-
-matrixA.numRows()   -   Returns 2
-matrixB.numCols()   -   Returns 2
-
-matrixB.dimension() -   Returns the dimension of a matrix
-matrix[1][0]        -   Returns the value at row 1 and col 0
-matrix[1][1] = 5    -   Sets the value 5 at the position (1, 1)
-
-etc...
+matrixA = Matrix(2, 2)      -       This creates a 2 x 2 matrix object  
+matrixB = Matrix(2, 2)      -       This creates a 2 x 2 matrix object  
+  
+matrixA.numRows()   -   Returns 2  
+matrixB.numCols()   -   Returns 2  
+  
+matrixB.dimension() -   Returns the dimension of a matrix  
+matrix[1][0]        -   Returns the value at row 1 and col 0  
+matrix[1][1] = 5    -   Sets the value 5 at the position (1, 1)  
+  
+etc...  
